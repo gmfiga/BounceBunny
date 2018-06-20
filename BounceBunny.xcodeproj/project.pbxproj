@@ -7,6 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C34DC84420DAEB9600136F96 /* frame-8.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC83020DAEB9300136F96 /* frame-8.png */; };
+		C34DC84520DAEB9600136F96 /* frame-2.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC83120DAEB9300136F96 /* frame-2.png */; };
+		C34DC84620DAEB9600136F96 /* frame-9.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC83220DAEB9300136F96 /* frame-9.png */; };
+		C34DC84720DAEB9600136F96 /* frame-17.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC83320DAEB9300136F96 /* frame-17.png */; };
+		C34DC84820DAEB9600136F96 /* frame-14.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC83420DAEB9300136F96 /* frame-14.png */; };
+		C34DC84920DAEB9600136F96 /* frame-13.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC83520DAEB9300136F96 /* frame-13.png */; };
+		C34DC84A20DAEB9600136F96 /* frame-12.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC83620DAEB9400136F96 /* frame-12.png */; };
+		C34DC84B20DAEB9600136F96 /* frame-18.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC83720DAEB9400136F96 /* frame-18.png */; };
+		C34DC84C20DAEB9600136F96 /* frame-20.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC83820DAEB9400136F96 /* frame-20.png */; };
+		C34DC84D20DAEB9600136F96 /* frame-5.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC83920DAEB9400136F96 /* frame-5.png */; };
+		C34DC84E20DAEB9600136F96 /* frame-16.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC83A20DAEB9400136F96 /* frame-16.png */; };
+		C34DC84F20DAEB9600136F96 /* frame-1.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC83B20DAEB9400136F96 /* frame-1.png */; };
+		C34DC85020DAEB9600136F96 /* frame-6.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC83C20DAEB9500136F96 /* frame-6.png */; };
+		C34DC85120DAEB9600136F96 /* frame-7.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC83D20DAEB9500136F96 /* frame-7.png */; };
+		C34DC85220DAEB9600136F96 /* frame-4.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC83E20DAEB9500136F96 /* frame-4.png */; };
+		C34DC85320DAEB9600136F96 /* frame-11.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC83F20DAEB9500136F96 /* frame-11.png */; };
+		C34DC85420DAEB9600136F96 /* frame-15.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC84020DAEB9500136F96 /* frame-15.png */; };
+		C34DC85520DAEB9600136F96 /* frame-10.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC84120DAEB9600136F96 /* frame-10.png */; };
+		C34DC85620DAEB9600136F96 /* frame-3.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC84220DAEB9600136F96 /* frame-3.png */; };
+		C34DC85720DAEB9600136F96 /* frame-19.png in Resources */ = {isa = PBXBuildFile; fileRef = C34DC84320DAEB9600136F96 /* frame-19.png */; };
 		C350676220DAD6BE00008A91 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C350676120DAD6BE00008A91 /* AppDelegate.swift */; };
 		C350676420DAD6BE00008A91 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C350676320DAD6BE00008A91 /* ViewController.swift */; };
 		C350676720DAD6BE00008A91 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C350676520DAD6BE00008A91 /* Main.storyboard */; };
@@ -14,6 +34,8 @@
 		C350676C20DAD6BE00008A91 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C350676A20DAD6BE00008A91 /* LaunchScreen.storyboard */; };
 		C350677720DAD6BE00008A91 /* BounceBunnyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C350677620DAD6BE00008A91 /* BounceBunnyTests.swift */; };
 		C350678220DAD6BE00008A91 /* BounceBunnyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C350678120DAD6BE00008A91 /* BounceBunnyUITests.swift */; };
+		C350679020DAD71200008A91 /* bunnies in Resources */ = {isa = PBXBuildFile; fileRef = C350678F20DAD71200008A91 /* bunnies */; };
+		C350679220DAD80A00008A91 /* grass-drawing.png in Resources */ = {isa = PBXBuildFile; fileRef = C350679120DAD80A00008A91 /* grass-drawing.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +56,26 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C34DC83020DAEB9300136F96 /* frame-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-8.png"; path = "../../bunnies/frame-8.png"; sourceTree = "<group>"; };
+		C34DC83120DAEB9300136F96 /* frame-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-2.png"; path = "../../bunnies/frame-2.png"; sourceTree = "<group>"; };
+		C34DC83220DAEB9300136F96 /* frame-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-9.png"; path = "../../bunnies/frame-9.png"; sourceTree = "<group>"; };
+		C34DC83320DAEB9300136F96 /* frame-17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-17.png"; path = "../../bunnies/frame-17.png"; sourceTree = "<group>"; };
+		C34DC83420DAEB9300136F96 /* frame-14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-14.png"; path = "../../bunnies/frame-14.png"; sourceTree = "<group>"; };
+		C34DC83520DAEB9300136F96 /* frame-13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-13.png"; path = "../../bunnies/frame-13.png"; sourceTree = "<group>"; };
+		C34DC83620DAEB9400136F96 /* frame-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-12.png"; path = "../../bunnies/frame-12.png"; sourceTree = "<group>"; };
+		C34DC83720DAEB9400136F96 /* frame-18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-18.png"; path = "../../bunnies/frame-18.png"; sourceTree = "<group>"; };
+		C34DC83820DAEB9400136F96 /* frame-20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-20.png"; path = "../../bunnies/frame-20.png"; sourceTree = "<group>"; };
+		C34DC83920DAEB9400136F96 /* frame-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-5.png"; path = "../../bunnies/frame-5.png"; sourceTree = "<group>"; };
+		C34DC83A20DAEB9400136F96 /* frame-16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-16.png"; path = "../../bunnies/frame-16.png"; sourceTree = "<group>"; };
+		C34DC83B20DAEB9400136F96 /* frame-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-1.png"; path = "../../bunnies/frame-1.png"; sourceTree = "<group>"; };
+		C34DC83C20DAEB9500136F96 /* frame-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-6.png"; path = "../../bunnies/frame-6.png"; sourceTree = "<group>"; };
+		C34DC83D20DAEB9500136F96 /* frame-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-7.png"; path = "../../bunnies/frame-7.png"; sourceTree = "<group>"; };
+		C34DC83E20DAEB9500136F96 /* frame-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-4.png"; path = "../../bunnies/frame-4.png"; sourceTree = "<group>"; };
+		C34DC83F20DAEB9500136F96 /* frame-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-11.png"; path = "../../bunnies/frame-11.png"; sourceTree = "<group>"; };
+		C34DC84020DAEB9500136F96 /* frame-15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-15.png"; path = "../../bunnies/frame-15.png"; sourceTree = "<group>"; };
+		C34DC84120DAEB9600136F96 /* frame-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-10.png"; path = "../../bunnies/frame-10.png"; sourceTree = "<group>"; };
+		C34DC84220DAEB9600136F96 /* frame-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-3.png"; path = "../../bunnies/frame-3.png"; sourceTree = "<group>"; };
+		C34DC84320DAEB9600136F96 /* frame-19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frame-19.png"; path = "../../bunnies/frame-19.png"; sourceTree = "<group>"; };
 		C350675E20DAD6BE00008A91 /* BounceBunny.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BounceBunny.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C350676120DAD6BE00008A91 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C350676320DAD6BE00008A91 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +89,8 @@
 		C350677D20DAD6BE00008A91 /* BounceBunnyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BounceBunnyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C350678120DAD6BE00008A91 /* BounceBunnyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BounceBunnyUITests.swift; sourceTree = "<group>"; };
 		C350678320DAD6BE00008A91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C350678F20DAD71200008A91 /* bunnies */ = {isa = PBXFileReference; lastKnownFileType = folder; name = bunnies; path = ../../../../../Volumes/public/ios/bunnies; sourceTree = "<group>"; };
+		C350679120DAD80A00008A91 /* grass-drawing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "grass-drawing.png"; path = "../../../Downloads/grass-drawing.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +141,28 @@
 		C350676020DAD6BE00008A91 /* BounceBunny */ = {
 			isa = PBXGroup;
 			children = (
+				C34DC83B20DAEB9400136F96 /* frame-1.png */,
+				C34DC83120DAEB9300136F96 /* frame-2.png */,
+				C34DC84220DAEB9600136F96 /* frame-3.png */,
+				C34DC83E20DAEB9500136F96 /* frame-4.png */,
+				C34DC83920DAEB9400136F96 /* frame-5.png */,
+				C34DC83C20DAEB9500136F96 /* frame-6.png */,
+				C34DC83D20DAEB9500136F96 /* frame-7.png */,
+				C34DC83020DAEB9300136F96 /* frame-8.png */,
+				C34DC83220DAEB9300136F96 /* frame-9.png */,
+				C34DC84120DAEB9600136F96 /* frame-10.png */,
+				C34DC83F20DAEB9500136F96 /* frame-11.png */,
+				C34DC83620DAEB9400136F96 /* frame-12.png */,
+				C34DC83520DAEB9300136F96 /* frame-13.png */,
+				C34DC83420DAEB9300136F96 /* frame-14.png */,
+				C34DC84020DAEB9500136F96 /* frame-15.png */,
+				C34DC83A20DAEB9400136F96 /* frame-16.png */,
+				C34DC83320DAEB9300136F96 /* frame-17.png */,
+				C34DC83720DAEB9400136F96 /* frame-18.png */,
+				C34DC84320DAEB9600136F96 /* frame-19.png */,
+				C34DC83820DAEB9400136F96 /* frame-20.png */,
+				C350679120DAD80A00008A91 /* grass-drawing.png */,
+				C350678F20DAD71200008A91 /* bunnies */,
 				C350676120DAD6BE00008A91 /* AppDelegate.swift */,
 				C350676320DAD6BE00008A91 /* ViewController.swift */,
 				C350676520DAD6BE00008A91 /* Main.storyboard */,
@@ -232,9 +298,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C350679220DAD80A00008A91 /* grass-drawing.png in Resources */,
+				C34DC85620DAEB9600136F96 /* frame-3.png in Resources */,
+				C34DC84D20DAEB9600136F96 /* frame-5.png in Resources */,
+				C34DC85220DAEB9600136F96 /* frame-4.png in Resources */,
+				C34DC84720DAEB9600136F96 /* frame-17.png in Resources */,
+				C34DC84F20DAEB9600136F96 /* frame-1.png in Resources */,
+				C34DC85120DAEB9600136F96 /* frame-7.png in Resources */,
+				C34DC84820DAEB9600136F96 /* frame-14.png in Resources */,
 				C350676C20DAD6BE00008A91 /* LaunchScreen.storyboard in Resources */,
 				C350676920DAD6BE00008A91 /* Assets.xcassets in Resources */,
+				C34DC84920DAEB9600136F96 /* frame-13.png in Resources */,
 				C350676720DAD6BE00008A91 /* Main.storyboard in Resources */,
+				C34DC84B20DAEB9600136F96 /* frame-18.png in Resources */,
+				C34DC85020DAEB9600136F96 /* frame-6.png in Resources */,
+				C34DC85320DAEB9600136F96 /* frame-11.png in Resources */,
+				C34DC84420DAEB9600136F96 /* frame-8.png in Resources */,
+				C34DC84520DAEB9600136F96 /* frame-2.png in Resources */,
+				C350679020DAD71200008A91 /* bunnies in Resources */,
+				C34DC85420DAEB9600136F96 /* frame-15.png in Resources */,
+				C34DC84C20DAEB9600136F96 /* frame-20.png in Resources */,
+				C34DC84A20DAEB9600136F96 /* frame-12.png in Resources */,
+				C34DC85520DAEB9600136F96 /* frame-10.png in Resources */,
+				C34DC85720DAEB9600136F96 /* frame-19.png in Resources */,
+				C34DC84E20DAEB9600136F96 /* frame-16.png in Resources */,
+				C34DC84620DAEB9600136F96 /* frame-9.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
