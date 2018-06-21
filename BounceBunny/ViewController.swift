@@ -62,6 +62,18 @@ class ViewController: UIViewController {
         
     }
     
+    @IBAction func sliderAction(_ sender: Any) {
+        imgBunny.animationDuration = 1.0 - Double(sldFaster.value)
+        imgBunnyRight.animationDuration = 1.0 - Double(sldFaster.value)
+        imgBunnyLeft.animationDuration = 1.0 - Double(sldFaster.value)
+        imgBunnyCenter.animationDuration = 1.0 - Double(sldFaster.value)
+        
+        imgBunnyRight.startAnimating()
+        imgBunnyLeft.startAnimating()
+        imgBunnyCenter.startAnimating()
+        imgBunny.startAnimating()
+    }
+    
     @IBAction func btnPressed(_ sender: Any) {
         imgBunnyRight.startAnimating()
         imgBunnyLeft.startAnimating()

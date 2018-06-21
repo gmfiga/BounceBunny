@@ -34,7 +34,6 @@
 		C350676C20DAD6BE00008A91 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C350676A20DAD6BE00008A91 /* LaunchScreen.storyboard */; };
 		C350677720DAD6BE00008A91 /* BounceBunnyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C350677620DAD6BE00008A91 /* BounceBunnyTests.swift */; };
 		C350678220DAD6BE00008A91 /* BounceBunnyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C350678120DAD6BE00008A91 /* BounceBunnyUITests.swift */; };
-		C350679020DAD71200008A91 /* bunnies in Resources */ = {isa = PBXBuildFile; fileRef = C350678F20DAD71200008A91 /* bunnies */; };
 		C350679220DAD80A00008A91 /* grass-drawing.png in Resources */ = {isa = PBXBuildFile; fileRef = C350679120DAD80A00008A91 /* grass-drawing.png */; };
 /* End PBXBuildFile section */
 
@@ -89,7 +88,6 @@
 		C350677D20DAD6BE00008A91 /* BounceBunnyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BounceBunnyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C350678120DAD6BE00008A91 /* BounceBunnyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BounceBunnyUITests.swift; sourceTree = "<group>"; };
 		C350678320DAD6BE00008A91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C350678F20DAD71200008A91 /* bunnies */ = {isa = PBXFileReference; lastKnownFileType = folder; name = bunnies; path = ../../../../../Volumes/public/ios/bunnies; sourceTree = "<group>"; };
 		C350679120DAD80A00008A91 /* grass-drawing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "grass-drawing.png"; path = "../../../Downloads/grass-drawing.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -162,7 +160,6 @@
 				C34DC84320DAEB9600136F96 /* frame-19.png */,
 				C34DC83820DAEB9400136F96 /* frame-20.png */,
 				C350679120DAD80A00008A91 /* grass-drawing.png */,
-				C350678F20DAD71200008A91 /* bunnies */,
 				C350676120DAD6BE00008A91 /* AppDelegate.swift */,
 				C350676320DAD6BE00008A91 /* ViewController.swift */,
 				C350676520DAD6BE00008A91 /* Main.storyboard */,
@@ -315,7 +312,6 @@
 				C34DC85320DAEB9600136F96 /* frame-11.png in Resources */,
 				C34DC84420DAEB9600136F96 /* frame-8.png in Resources */,
 				C34DC84520DAEB9600136F96 /* frame-2.png in Resources */,
-				C350679020DAD71200008A91 /* bunnies in Resources */,
 				C34DC85420DAEB9600136F96 /* frame-15.png in Resources */,
 				C34DC84C20DAEB9600136F96 /* frame-20.png in Resources */,
 				C34DC84A20DAEB9600136F96 /* frame-12.png in Resources */,
